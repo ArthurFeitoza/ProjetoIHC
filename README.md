@@ -10,7 +10,7 @@ O site escolhido oferece informações importantes para turistas e moradores de 
 
 ## Objetivo do Projeto
 
-O projeto MARÉ+ busca explorar melhorias na experiência do usuário através de um protótipo que reorganiza as informações de forma clara e acessível, com navegação mais simples e layout mais agradável visualmente.
+O projeto MARÉ+ tem como objetivo aprimorar a experiência do usuário por meio de um protótipo que reestrutura a apresentação das informações, tornando-as mais claras e acessíveis. A proposta inclui uma navegação intuitiva e um layout visualmente harmonioso, fundamentado no protótipo criado no Figma durante a disciplina de Interação Humano-Computador (IHC).
 
 ## Importante
 
@@ -35,3 +35,4 @@ Este projeto é apenas um protótipo e não possui todas as funcionalidades comp
 Trabalho final da disciplina de **Interação Humano-Computador (IHC)**  
 Curso: **Ciência da Computação**  
 Instituição: *UNIMA*
+Autores: Arthur Martins e Quezia Souza
