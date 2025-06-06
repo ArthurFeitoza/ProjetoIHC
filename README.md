@@ -6,7 +6,7 @@ MARÉ+ é um projeto desenvolvido como trabalho final da disciplina de Interaç�
 
 Site de referência original: [Tábua de Marés - Maceió](https://tabuademares.com/br/alagoas/maceio)
 
-O site escolhido oferece informações importantes para turistas e moradores de cidades litorâneas, como tábua de marés e previsão do tempo. No entanto, sua interface atual é poluída por propagandas, pouco intuitiva e visualmente desorganizada, dificultando o acesso rápido às informações.
+O site escolhido oferece informações importantes para turistas e moradores de cidades litorâneas, como tábua de marés e previsão do tempo. No entanto, sua interface atual é poluída, pouco intuitiva e visualmente desorganizada, dificultando o acesso rápido às informações.
 
 ## Objetivo do Projeto
 
@@ -20,7 +20,7 @@ Este projeto é apenas um protótipo e não possui todas as funcionalidades comp
 
 - HTML5  
 - CSS3  
-- JavaScript (básico, se necessário)  
+- JavaScript  
 - Google Maps Embed (para visualização da localização)
 
 ## Funcionalidades Simuladas
