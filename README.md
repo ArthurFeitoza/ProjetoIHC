@@ -34,5 +34,5 @@ Este projeto é apenas um protótipo e não possui todas as funcionalidades comp
 
 Trabalho final da disciplina de **Interação Humano-Computador (IHC)**  
 Curso: **Ciência da Computação**  
-Instituição: *UNIMA*
-Autores: Arthur Martins e Quezia Souza
+Instituição: *UNIMA - Centro Universitário de Maceió*
+Autores: Arthur Martins e Quézia Souza
