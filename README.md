@@ -1,6 +1,41 @@
 # MARÉ+
 
-MARÉ+ é um projeto desenvolvido como trabalho final da disciplina de Interação Humano-Computador (IHC). Seu objetivo é apresentar uma interface mais limpa, acessível e organizada para usuários interessados em consultar informações sobre marés e clima nas praias de Maceió, Alagoas.
+MARÉ+ é um projeto desenvolvido como trabalho final da disciplina de Interação Humano-Computador (IHC). Seu objetivo é apresentar uma interface mais limpa, acessível e organizada para usuários interessados em consultar informações sobre marés e clima e tábua das mares nas praias de Maceió, Alagoas.
+
+## Acesse o site
+
+Você pode visualizar o protótipo publicado aqui: [Mare+](https://arthurfeitoza.github.io/ProjetoIHC/)
+
+## Imagens do Site
+
+### Página Inicial
+![Página Inicial](imagens/pagina-inicial.png)
+
+### Página de Previsão  
+![Página de Previsão](imagens/previsao-do-tempo.png)
+
+### Página Tábua das Mares
+![Página Sobre](imagens/tabua-das-mares.png)
+
+### Página de Locais
+![Página de Locais](imagens/locais.png)
+
+### Página Sobre
+![Página Sobre](imagens/sobre.png)
+
+## Imagens do protótipo no Figma
+
+### Página Inicial (Figma)
+![Página Inicial](imagens/pag1.png)
+
+### Página de Previsão (Figma)
+![Página de Previsão](imagens/pag3.png)
+
+### Página Tábua das Mares (Figma)
+![Página Sobre](imagens/pag2.png)
+
+### Página de Locais (Figma)
+![Página de Locais](imagens/pag4.png)
 
 ## Contexto
 
